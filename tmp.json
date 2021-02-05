@@ -1,0 +1,58 @@
+{
+  "cache": [
+    {
+      "type": "category",
+      "deleted": false,
+      "id": "691039420136292404",
+      "name": "Canales de texto",
+      "rawPosition": 0,
+      "parentID": null,
+      "permissionOverwrites": [],
+      "guild": "691039420136292402",
+      "createdTimestamp": 1584827036652
+    },
+    {
+      "type": "category",
+      "deleted": false,
+      "id": "691039420136292405",
+      "name": "Canales de voz",
+      "rawPosition": 0,
+      "parentID": null,
+      "permissionOverwrites": [],
+      "guild": "691039420136292402",
+      "createdTimestamp": 1584827036652
+    },
+    {
+      "type": "text",
+      "deleted": false,
+      "id": "691039420136292406",
+      "name": "general",
+      "rawPosition": 0,
+      "parentID": "691039420136292404",
+      "permissionOverwrites": [],
+      "topic": null,
+      "lastMessageID": "796378424784060446",
+      "rateLimitPerUser": 0,
+      "lastPinTimestamp": null,
+      "guild": "691039420136292402",
+      "messages": [
+        "796378424784060446"
+      ],
+      "nsfw": false,
+      "createdTimestamp": 1584827036652
+    },
+    {
+      "type": "voice",
+      "deleted": false,
+      "id": "691039420136292407",
+      "name": "General",
+      "rawPosition": 0,
+      "parentID": "691039420136292405",
+      "permissionOverwrites": [],
+      "bitrate": 64000,
+      "userLimit": 0,
+      "guild": "691039420136292402",
+      "createdTimestamp": 1584827036652
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "voice-recorder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "GOOGLE_APPLICATION_CREDENTIALS=\"[C:\\apps\\discord-bots\\voice-recorder\\google-credentials.json]\" node voice-recognition.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "@discordjs/opus": "^0.3.3",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "simple-youtube-api": "^5.2.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "0.0.1-security",
+    "get-youtube-id": "^1.0.0",
+    "imgur-search": "^1.0.1",
+    "node-opus": "*",
+    "node-witai-speech": "^1.0.2",
+    "request": "^2.83.0",
+    "underscore": "^1.8.3",
+    "youtube-info": "^1.1.2",
+    "ytdl-core": "^4.4.1",
+    "@google-cloud/speech": "^2.1.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
