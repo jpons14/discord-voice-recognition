@@ -2,9 +2,9 @@
   "name": "voice-recorder",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "voice-recognition.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node voice-recognition.js",
     "start": "GOOGLE_APPLICATION_CREDENTIALS=\"[C:\\apps\\discord-bots\\voice-recorder\\google-credentials.json]\" node voice-recognition.js"
   },
   "author": "",
